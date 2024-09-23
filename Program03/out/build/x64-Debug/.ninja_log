@@ -1,0 +1,14 @@
+# ninja log v5
+36	664	7479090438120097	CMakeFiles/Program03.dir/main.cpp.obj.ddi	bdcdae92edb84133
+49	689	7479090438917976	CMakeFiles/Program03.dir/Customer.cpp.obj.ddi	ea33fbb0ea25f73c
+88	787	7479090440060361	CMakeFiles/Program03.dir/Product.cpp.obj.ddi	8fd9f396bc53445d
+61	830	7479090440536984	CMakeFiles/Program03.dir/Order.cpp.obj.ddi	9ab6034ca89a2e7e
+831	1040	7479090442623556	CMakeFiles/Program03.dir/CXX.dd	dced1a5099eb24c9
+831	1040	7479090442623556	C:/Users/Owner/CLionProjects/Program03/out/build/x64-Debug/CMakeFiles/Program03.dir/CXXModules.json	dced1a5099eb24c9
+831	1040	7479090442623556	CMakeFiles/Program03.dir/main.cpp.obj.modmap	dced1a5099eb24c9
+831	1040	7479090442623556	CMakeFiles/Program03.dir/Customer.cpp.obj.modmap	dced1a5099eb24c9
+831	1040	7479090442623556	CMakeFiles/Program03.dir/Order.cpp.obj.modmap	dced1a5099eb24c9
+831	1040	7479090442623556	CMakeFiles/Program03.dir/Product.cpp.obj.modmap	dced1a5099eb24c9
+1079	3150	7479090463774250	CMakeFiles/Program03.dir/Order.cpp.obj	b55755be07d20456
+1094	3576	7479090468069359	CMakeFiles/Program03.dir/Product.cpp.obj	88e5ec595031fda1
+1057	3848	7479090470734964	CMakeFiles/Program03.dir/main.cpp.obj	f4a7df9e555a121b

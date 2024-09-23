@@ -1,0 +1,9 @@
+ninja_dyndep_version = 1.0
+build CMakeFiles\Program03.dir\main.cpp.obj: dyndep
+
+build CMakeFiles\Program03.dir\Customer.cpp.obj: dyndep
+
+build CMakeFiles\Program03.dir\Order.cpp.obj: dyndep
+
+build CMakeFiles\Program03.dir\Product.cpp.obj: dyndep
+

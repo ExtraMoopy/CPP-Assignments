@@ -1,0 +1,18 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "MSVC",
+	"compiler-id" : "MSVC",
+	"compiler-simulate-id" : "",
+	"config" : "Debug",
+	"cxx-modules" : {},
+	"dir-cur-bld" : "C:/Users/Owner/CLionProjects/Program03/out/build/x64-Debug",
+	"dir-cur-src" : "C:/Users/Owner/CLionProjects/Program03",
+	"dir-top-bld" : "C:/Users/Owner/CLionProjects/Program03/out/build/x64-Debug",
+	"dir-top-src" : "C:/Users/Owner/CLionProjects/Program03",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : [],
+	"language" : "CXX",
+	"linked-target-dirs" : [],
+	"module-dir" : "C:/Users/Owner/CLionProjects/Program03/out/build/x64-Debug/CMakeFiles/Program03.dir"
+}

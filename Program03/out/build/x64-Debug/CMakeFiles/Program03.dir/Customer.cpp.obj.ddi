@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "CMakeFiles\\Program03.dir\\Customer.cpp.obj",
+            "outputs": [
+                "C:\\Users\\Owner\\CLionProjects\\Program03\\out\\build\\x64-Debug\\vc140.pdb",
+                "CMakeFiles\\Program03.dir\\Customer.cpp.obj.ddi"
+            ],
+            "requires": []
+        }
+    ]
+}
