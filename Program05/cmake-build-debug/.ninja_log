@@ -1,3 +1,16 @@
 # ninja log v6
 24	2343	7488206278572928	CMakeFiles/Program05.dir/main.cpp.obj	984cc5b676d2ca14
 2347	2681	7488206301807022	Program05.exe	416496f6c83ab6a7
+80	1435	7490807791323956	CMakeFiles/Program05.dir/main.cpp.obj	cb2fa3efc798fa40
+92	1643	7490807791434114	CMakeFiles/Program05.dir/Package.cpp.obj	8744afe2ac91edd7
+1644	2644	7490807806961655	Program05.exe	80960e16dccdc031
+42	1484	7490821853759293	CMakeFiles/Program05.dir/main.cpp.obj	cb2fa3efc798fa40
+55	1547	7490821853869001	CMakeFiles/Program05.dir/Package.cpp.obj	8744afe2ac91edd7
+1548	1826	7490821868799267	Program05.exe	80960e16dccdc031
+37	909	7490822040706132	CMakeFiles/Program05.dir/main.cpp.obj	cb2fa3efc798fa40
+30	1004	7490822795872085	CMakeFiles/Program05.dir/Package.cpp.obj	8744afe2ac91edd7
+1005	1217	7490822805618492	Program05.exe	80960e16dccdc031
+32	931	7490823102001772	CMakeFiles/Program05.dir/main.cpp.obj	cb2fa3efc798fa40
+932	1137	7490823110997094	Program05.exe	80960e16dccdc031
+32	990	7490823171910581	CMakeFiles/Program05.dir/main.cpp.obj	cb2fa3efc798fa40
+992	1188	7490823181506523	Program05.exe	80960e16dccdc031

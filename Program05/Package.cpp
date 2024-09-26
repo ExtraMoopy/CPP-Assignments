@@ -5,16 +5,16 @@
 #include <iostream>
 #include "Package.h"
 
-Package::Package(std::string& name, std::string& address, std::string& city, std::string& state
+Package::Package(const std::string& Ownername, const std::string& Owneraddress, const std::string& Ownercity, const std::string& Ownerstate
         ,int zipSender,int zipReceiver,double weight,double costPerOunce) {
-        this->name = name;
-        this->address = address;
-        this->city = city;
-        this->state = state;
-        this->zipSender = zipSender;
-        this->zipReceiver = zipReceiver;
-        this->weight = weight;
-        this->costPerOunce = costPerOunce;
+        name = Ownername;
+        address = Owneraddress;
+        city = Ownercity;
+        state = Ownerstate;
+        setzipReceiver(zipReceiver);
+        setzipSender(zipSender);
+        setweight(weight);
+        setCostPerOunce(costPerOunce);
 };
 
 Package::~Package() {
@@ -51,17 +51,17 @@ std::string Package::getstate() {
         return this->state;
 }
 
-void Package::setSENDERzip(const int senderZipinput) {
+void Package::setzipSender(const int senderZipinput) {
         this->zipSender = senderZipinput;
 }
-int Package::getSENDERzip() {
+int Package::getzipSender() {
         return this->zipSender;
 }
 
-void Package::setRECIPIENTzip(const int zipReceiverinput) {
+void Package::setzipReceiver(const int zipReceiverinput) {
         this->zipReceiver = zipReceiverinput;
 }
-int Package::getRECIPIENTzip() {
+int Package::getzipReceiver() {
         return this->zipReceiver;
 }
 
@@ -82,6 +82,11 @@ void Package::setCostPerOunce(const double CPOInput) {
         }
         this->costPerOunce = CPOInput;
 }
+
+double Package::getCostPerOunce() {
+        return this->costPerOunce;
+}
+
 
 
 

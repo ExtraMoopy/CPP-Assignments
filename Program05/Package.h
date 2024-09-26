@@ -11,7 +11,7 @@
 class Package{
 
     public:
-    Package(std::string&, std::string&, std::string&, std::string&
+    Package(const std::string&, const std::string&, const std::string&, const std::string&
         ,int,int,double,double);
     ~Package();
     //Setters/Getters
@@ -27,11 +27,11 @@ class Package{
     void setstate(const std::string&);
     std::string getstate();
 
-    void setSENDERzip(int);
-    int getSENDERzip();
+    void setzipSender(int);
+    int getzipSender();
 
-    void setRECIPIENTzip(int);
-    int getRECIPIENTzip();
+    void setzipReceiver(int);
+    int getzipReceiver();
 
     void setweight(double);
     double getweight();
