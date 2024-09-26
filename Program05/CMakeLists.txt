@@ -5,4 +5,7 @@ set(CMAKE_CXX_STANDARD 20)
 
 add_executable(Program05 main.cpp
         Package.cpp
-        Package.h)
+        Package.h
+        TwoDayPackage.h
+        TwoDayPackage.cpp
+        OvernightPackage.h)

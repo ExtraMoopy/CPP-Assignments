@@ -87,9 +87,6 @@ double Package::getCostPerOunce() {
         return this->costPerOunce;
 }
 
-
-
-
 double Package::calculateCost() {
         return weight * costPerOunce;
 }
