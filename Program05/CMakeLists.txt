@@ -8,4 +8,5 @@ add_executable(Program05 main.cpp
         Package.h
         TwoDayPackage.h
         TwoDayPackage.cpp
-        OvernightPackage.h)
+        OvernightPackage.h
+        OvernightPackage.cpp)

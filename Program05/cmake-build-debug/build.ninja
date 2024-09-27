@@ -67,6 +67,12 @@ build CMakeFiles/Program05.dir/TwoDayPackage.cpp.obj: CXX_COMPILER__Program05_un
   OBJECT_DIR = CMakeFiles\Program05.dir
   OBJECT_FILE_DIR = CMakeFiles\Program05.dir
 
+build CMakeFiles/Program05.dir/OvernightPackage.cpp.obj: CXX_COMPILER__Program05_unscanned_Debug C$:/Users/Owner/CLionProjects/CPP-Assignments/Program05/OvernightPackage.cpp || cmake_object_order_depends_target_Program05
+  DEP_FILE = CMakeFiles\Program05.dir\OvernightPackage.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Program05.dir
+  OBJECT_FILE_DIR = CMakeFiles\Program05.dir
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target Program05
@@ -75,7 +81,7 @@ build CMakeFiles/Program05.dir/TwoDayPackage.cpp.obj: CXX_COMPILER__Program05_un
 #############################################
 # Link the executable Program05.exe
 
-build Program05.exe: CXX_EXECUTABLE_LINKER__Program05_Debug CMakeFiles/Program05.dir/main.cpp.obj CMakeFiles/Program05.dir/Package.cpp.obj CMakeFiles/Program05.dir/TwoDayPackage.cpp.obj
+build Program05.exe: CXX_EXECUTABLE_LINKER__Program05_Debug CMakeFiles/Program05.dir/main.cpp.obj CMakeFiles/Program05.dir/Package.cpp.obj CMakeFiles/Program05.dir/TwoDayPackage.cpp.obj CMakeFiles/Program05.dir/OvernightPackage.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\Program05.dir

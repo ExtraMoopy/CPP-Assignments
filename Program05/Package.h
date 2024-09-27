@@ -6,7 +6,7 @@
 #define PACKAGE_H
 #include <string>
 
-#endif //PACKAGE_H
+
 
 class Package{
 
@@ -54,3 +54,5 @@ class Package{
 
 
 };
+
+#endif //PACKAGE_H
